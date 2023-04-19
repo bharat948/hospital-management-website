@@ -3,7 +3,7 @@
 ## Install the frontend
 
 ```bash
-git clone git@github.com:deepakyadav-02/HEALTH-DESK.git
+git clone git@github.com:bharat948/HEALTH-DESK.git
 cd client
 npm install
 npm start
