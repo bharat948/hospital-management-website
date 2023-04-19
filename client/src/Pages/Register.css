@@ -1,0 +1,9 @@
+.info{
+    display: grid;
+    grid-template-columns: auto auto;
+    padding-top: 10rem;
+    padding-left: 5rem;
+    column-gap: 15rem;
+   
+
+}
